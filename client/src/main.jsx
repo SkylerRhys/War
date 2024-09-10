@@ -3,6 +3,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 import App from './App.jsx'
 import Error from './pages/Error.jsx';
+import LandingPage from './pages/LandingPage.jsx';
 
 
 //adding a comment here to fix the main jsx
