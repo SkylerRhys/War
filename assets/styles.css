@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid;
+    width: 250px;
+    height: 350px;
+    margin: 1%;
+    border-radius: 15px;
+    text-align: center;
+}
